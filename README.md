@@ -1,10 +1,10 @@
 # Iron Man (2008) Commentary Subtitles
 
-There is an amazing live audio commentary track with Jon Favreau and Robert Downey, Jr. floating around the Internet. I found that their commentary totally enhanced my enjoyment of the movie. BUT it was recorded with a live crowd in a very noisy theater so at times it was ***very hard to hear*** what they were saying.
+There is an amazing audio commentary track with Jon Favreau and Robert Downey, Jr. floating around the Internet. I found that their commentary totally enhanced my enjoyment of the movie. BUT it was recorded with a live audience in a very noisy theater so at times it was ***very hard to hear*** what they were saying.
 
 This project is my attempt to rectify that: a subtitle (SRT) file to play along with the audio.
 
-Additional details about this audio commentary:
+Additional details about the audio commentary:
 
 - It was recorded from a live showing of the movie with Jon Favreau and Robert Downey, Jr. at the Santa Monica Aero Theater on September 6th, 2008.
 - Original recording source: https://www.reddit.com/r/movies/comments/4lwrt4/there_was_no_official_directors_commentary_for/
